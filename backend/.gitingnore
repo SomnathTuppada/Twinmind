@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build/cache
+dist/
+build/
+*.egg-info/
+
+# Frontend
+node_modules/
+
+# Secrets (VERY IMPORTANT)
+backend/.env
+.env

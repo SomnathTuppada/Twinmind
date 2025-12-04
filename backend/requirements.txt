@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+chromadb
+openai
+google-generativeai
+sqlalchemy
+psycopg2-binary
+aiofiles
+python-dotenv
+requests
+tqdm
+pinecone
+pydantic-settings
